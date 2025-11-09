@@ -1,7 +1,6 @@
-# Project Title
+# Web Crawler
 
-A brief description of what this project does and why it exists.  
-For example: *This project is a simple web application that demonstrates input processing and displays results dynamically.*
+This is a simple web app that counts the most commonly used words and their frequencies for a given URL.
 
 ---
 
